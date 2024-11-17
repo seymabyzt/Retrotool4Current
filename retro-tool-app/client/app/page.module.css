@@ -1,0 +1,5 @@
+.main {
+    background-image: linear-gradient( rgb(41, 41, 83) , rgb(185, 186, 208));
+    min-height: 100vh; 
+    padding-top: 100px; 
+}
